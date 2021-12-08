@@ -1,0 +1,8 @@
+pandas
+fastapi
+uvicorn
+graphene
+click
+python-multipart
+async-exit-stack
+async-generator
